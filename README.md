@@ -1,5 +1,4 @@
 # Information Retrieval System
-
 This project is an AI-powered Information Retrieval System designed to answer questions about uploaded PDF documents.
 
 The application allows a user to upload one or multiple PDF files, process their content, and ask natural-language questions about the information contained in those files.
